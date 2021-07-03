@@ -41,7 +41,7 @@
 
   * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
-    Please refer below image for getting more information about countywise percentage of total number of votes. And the code for that is in code Snippet as below:
+    Please refer below image for getting more information about countywise percentage of total number of votes. And the code for that is in code snippet as below:
 
     [Code Snippet](https://github.com/rachanamule/Election_Analysis/blob/00a9aa05913eca8915be839f940bf2ea38afd69e/resources/code_snippet_countywise_data.png)
 
