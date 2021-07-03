@@ -55,7 +55,7 @@
 
     [Output Image](https://github.com/rachanamule/Election_Analysis/blob/00a9aa05913eca8915be839f940bf2ea38afd69e/resources/winning_county.png)
 
-  * provide a breakdown of the number of votes and the percentage of the total votes each candidate recieved.
+  * Provide a breakdown of the number of votes and the percentage of the total votes each candidate recieved.
 
     Please refer below image for getting more information about candidate's percentage of total number of votes.
 
