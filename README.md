@@ -26,7 +26,8 @@
     1. The Election Results Printed to the Command Line
     2. Election Results Saved to a Text File
     3. A written Analysis of the Election Audit
-
+    
+ 
 * ## Election-Audit Results:
 
   * How many votes were cast in this congressional election?
@@ -70,6 +71,12 @@
     [Code Snippet](https://github.com/rachanamule/Election_Analysis/blob/00a9aa05913eca8915be839f940bf2ea38afd69e/resources/code_snippet_winning_candidate_data.png)
 
     [Output Image](https://github.com/rachanamule/Election_Analysis/blob/8fe035bd085c123a43bcf5f14c4ccc4eb3766e54/resources/winning_candidate_data.png)
+    
+    
+   The Deliverable 1 output image is as follows:
+    
+    [Election Results Printed on Command Line](https://github.com/rachanamule/Election_Analysis/blob/9de932205d907a19de83b65f7250d46d3ac6efaf/resources/Election_Results_cmd.png)
+    
 
 * ## Election-Audit Summary:
 
